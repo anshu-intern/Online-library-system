@@ -1,0 +1,43 @@
+.bookcategory{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+
+.bookItem{
+    width: 70vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px; 
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+}
+
+.genrelist{
+    width: 70vw;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.span{
+    margin-left: 2px;
+    margin-right: 4px;
+}
+
+.reset{
+    text-decoration: underline;
+    cursor: pointer;
+}

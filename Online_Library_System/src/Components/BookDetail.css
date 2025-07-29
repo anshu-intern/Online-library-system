@@ -1,0 +1,42 @@
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.detailheading{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.bookDetailsection {
+    margin: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+    display: flex;
+    gap: 4px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+
+}
+
+.detailImage{
+    height: 350px;
+    width: 100%;
+}
+
+.bookitem{
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.title{
+    padding: 2px;
+}

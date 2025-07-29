@@ -1,0 +1,15 @@
+.homeSection{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+@media (width < 1024px) {
+    .homeSection{
+        flex-direction: column;
+        align-items: center;
+    }
+}

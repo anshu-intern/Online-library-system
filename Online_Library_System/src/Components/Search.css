@@ -1,0 +1,20 @@
+.searchSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+input{
+    height: 24px;
+    width: 400px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+button{
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+}

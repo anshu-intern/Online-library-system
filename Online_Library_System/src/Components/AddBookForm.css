@@ -1,0 +1,52 @@
+
+.form{
+    margin: 0px;
+    margin-top: 30px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: antiquewhite;
+    overflow: hidden;
+}
+
+.inputForm{
+    margin-bottom: 50px;
+    background-color: white;
+    padding: 20px;
+    width: 80%;
+    max-width: 450px;
+    font-weight: 900;
+    display: flex;
+    overflow: scroll;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 15px;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+input,textarea{              
+    margin: 0px;
+    padding: 2px;
+    width: 75vw;
+    max-width: 400px;
+}
+
+.error{
+    color: red;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    padding: 8px;
+}

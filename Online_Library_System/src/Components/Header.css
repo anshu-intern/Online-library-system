@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #1440ae, rgb(66, 110, 231));
+    color: white;
+    font-size: 42px;
+    height: 80px;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    border: 1px solid white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    text-align: center;
+    padding: 14px;
+}

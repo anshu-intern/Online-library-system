@@ -1,0 +1,713 @@
+[
+  {
+    "id": 1,
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "category": "Fiction",
+    "description": "A phantasmagorical novel centered around a magical competition between two young illusionists.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/8231856-L.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "category": "Fiction",
+    "description": "A coming-of-age story and a murder mystery set in the marshes of North Carolina.",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/9420932-L.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "category": "Fiction",
+    "description": "A sweeping story of loss and obsession revolving around a stolen painting.",
+    "rating": 4.0,
+    "image": "https://covers.openlibrary.org/b/id/8106669-L.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "category": "Non-Fiction",
+    "description": "An exploration of humanity's history from ancient times to the present.",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/8225266-L.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "category": "Non-Fiction",
+    "description": "A memoir about growing up in a survivalist family and pursuing education.",
+    "rating": 4.7,
+    "image": "https://covers.openlibrary.org/b/id/9256510-L.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "category": "Non-Fiction",
+    "description": "The memoir of the former First Lady of the United States.",
+    "rating": 4.6,
+    "image": "https://covers.openlibrary.org/b/id/9115330-L.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "category": "Science Fiction (Sci-Fi)",
+    "description": "Epic tale of political intrigue and survival on a desert planet.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/8085106-L.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "category": "Science Fiction (Sci-Fi)",
+    "description": "A cyberpunk classic about a washed-up computer hacker hired for one last job.",
+    "rating": 4.0,
+    "image": "https://covers.openlibrary.org/b/id/8131244-L.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "category": "Science Fiction (Sci-Fi)",
+    "description": "An astronaut stranded on Mars must survive until rescue.",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/8376786-L.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "category": "Mystery & Thriller",
+    "description": "A suspenseful psychological thriller about a missing wife.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8231991-L.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "category": "Mystery & Thriller",
+    "description": "A journalist and hacker team up to solve a decades-old disappearance.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/8327897-L.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "category": "Mystery & Thriller",
+    "description": "A story about ex-wives, school scandals, and a suspicious death.",
+    "rating": 4.0,
+    "image": "https://covers.openlibrary.org/b/id/8156886-L.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Romance",
+    "description": "Classic novel exploring manners and matrimonial machinations.",
+    "rating": 4.6,
+    "image": "https://covers.openlibrary.org/b/id/8231857-L.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "category": "Romance",
+    "description": "A touching love story about caring and unexpected connection.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8156471-L.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "category": "Romance",
+    "description": "A historical romance involving time travel and adventure in 18th century Scotland.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/8117856-L.jpg"
+  },
+  {
+    "id": 16,
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "category": "Fantasy",
+    "description": "The tale of a magically gifted young man who grows to be a legendary figure.",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/8301735-L.jpg"
+  },
+  {
+    "id": 17,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "description": "A classic fantasy adventure following Bilbo Baggins on a quest.",
+    "rating": 4.7,
+    "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
+  },
+  {
+    "id": 18,
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "category": "Fantasy",
+    "description": "A blend of romance and fantasy in a world of faeries and magic.",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/10762288-L.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Memorial Drive",
+    "author": "Natasha Trethewey",
+    "category": "Biography & Memoir",
+    "description": "A poignant memoir exploring grief and the loss of the author's mother to domestic violence.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/11026433-L.jpg"
+  },
+  {
+    "id": 20,
+    "title": "The Storyteller",
+    "author": "Dave Grohl",
+    "category": "Biography & Memoir",
+    "description": "The life and career of the Foo Fighters frontman told with humor and insight.",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/11016069-L.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Will",
+    "author": "Will Smith",
+    "category": "Biography & Memoir",
+    "description": "The actor’s personal journey of triumph, failure, and resilience.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/11259744-L.jpg"
+  },
+  {
+    "id": 22,
+    "title": "The Splendid and the Vile",
+    "author": "Erik Larson",
+    "category": "History",
+    "description": "A gripping narrative of Winston Churchill during the Blitz of London in WWII.",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/10364952-L.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Caste",
+    "author": "Isabel Wilkerson",
+    "category": "History",
+    "description": "An exploration of the unspoken caste system that has shaped America and the world.",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/10644264-L.jpg"
+  },
+  {
+    "id": 24,
+    "title": "The Body",
+    "author": "Bill Bryson",
+    "category": "History",
+    "description": "A fascinating journey into the human body and its history.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/8833840-L.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-Help",
+    "description": "A practical guide on building good habits and breaking bad ones through small changes.",
+    "rating": 4.6,
+    "image": "https://covers.openlibrary.org/b/id/10458316-L.jpg"
+  },
+  {
+    "id": 26,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "category": "Self-Help",
+    "description": "A counterintuitive approach to living a better life by caring less about more things.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8231996-L.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Think Like a Monk",
+    "author": "Jay Shetty",
+    "category": "Self-Help",
+    "description": "Lessons on finding peace and purpose inspired by the author’s time as a monk.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/11275288-L.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Protocols: An Operating Manual for the Human Body",
+    "author": "Andrew D. Huberman",
+    "category": "Health & Wellness",
+    "description": "Science-backed neuroscience guide to optimizing brain and health routines.",
+    "rating": 4.4,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71N4TfP5QRL.jpg"
+  },
+  {
+    "id": 29,
+    "title": "How Not to Die",
+    "author": "Michael Greger",
+    "category": "Health & Wellness",
+    "description": "Evidence-based advice on preventing and reversing disease through diet and lifestyle.",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/7394541-L.jpg"
+  },
+  {
+    "id": 30,
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "category": "Health & Wellness",
+    "description": "Explores the science behind habit formation and change.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/8056197-L.jpg"
+  },
+  {
+    "id": 31,
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "category": "Post-Apocalyptic",
+    "description": "A bleak but powerful story of a father and son's journey through a devastated world.",
+    "rating": 4.0,
+    "image": "https://covers.openlibrary.org/b/id/240726-L.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "category": "Post-Apocalyptic",
+    "description": "A story about the collapse of civilization and the survivors’ attempts to rebuild.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/7884996-L.jpg"
+  },
+  {
+    "id": 33,
+    "title": "The Passage",
+    "author": "Justin Cronin",
+    "category": "Post-Apocalyptic",
+    "description": "A thrilling saga involving a government experiment gone wrong and a vampire apocalypse.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/8231858-L.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "category": "Science & Technology",
+    "description": "A profound exploration of the universe, science, and human existence.",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/8231859-L.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Astrophysics for People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "category": "Science & Technology",
+    "description": "Concise and accessible introduction to the fundamentals of astrophysics.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/8471427-L.jpg"
+  },
+  {
+    "id": 36,
+    "title": "The Innovators",
+    "author": "Walter Isaacson",
+    "category": "Science & Technology",
+    "description": "Chronicles the people who created the computer and the Internet.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8231860-L.jpg"
+  },
+  {
+    "id": 37,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Philosophy & Spirituality",
+    "description": "A mystical story about following your dreams and listening to your heart.",
+    "rating": 4.0,
+    "image": "https://covers.openlibrary.org/b/id/8231861-L.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "category": "Philosophy & Spirituality",
+    "description": "Stoic philosophy from the Roman Emperor offering wisdom on life and virtue.",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/8327132-L.jpg"
+  },
+  {
+    "id": 39,
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "category": "Philosophy & Spirituality",
+    "description": "Guide to spiritual enlightenment through living in the present moment.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/8231862-L.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Blink",
+    "author": "Malcolm Gladwell",
+    "category": "Psychology",
+    "description": "Explores the power and pitfalls of rapid cognition and decision-making.",
+    "rating": 4.0,
+    "image": "https://covers.openlibrary.org/b/id/8231863-L.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "Psychology",
+    "description": "A deep dive into the two systems that drive the way we think.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/8231864-L.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Influence",
+    "author": "Robert Cialdini",
+    "category": "Psychology",
+    "description": "Classic book on persuasion and the psychology of compliance.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8231865-L.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "category": "Comedy & Humor",
+    "description": "A memoir of growing up in apartheid South Africa with humor and insight.",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/8227222-L.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Bossypants",
+    "author": "Tina Fey",
+    "category": "Comedy & Humor",
+    "description": "A hilarious memoir by the comedian and writer.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8231866-L.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Yes Please",
+    "author": "Amy Poehler",
+    "category": "Comedy & Humor",
+    "description": "A comedic memoir filled with stories and advice.",
+    "rating": 4.0,
+    "image": "https://covers.openlibrary.org/b/id/8231867-L.jpg"
+  },
+  {
+    "id": 46,
+    "title": "The 5 Love Languages",
+    "author": "Gary Chapman",
+    "category": "Relationships",
+    "description": "Understanding how to express love in a way your partner understands.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/8231868-L.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Attached",
+    "author": "Amir Levine",
+    "category": "Relationships",
+    "description": "A guide to understanding adult attachment and improving relationships.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8231869-L.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Men Are from Mars, Women Are from Venus",
+    "author": "John Gray",
+    "category": "Relationships",
+    "description": "Classic relationship advice on understanding differences between men and women.",
+    "rating": 3.9,
+    "image": "https://covers.openlibrary.org/b/id/8231870-L.jpg"
+  },
+  {
+    "id": 49,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Classics",
+    "description": "A profound novel about racial injustice and childhood in the American South.",
+    "rating": 4.8,
+    "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+  },
+  {
+    "id": 50,
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Classics",
+    "description": "A dystopian novel about totalitarianism and surveillance.",
+    "rating": 4.7,
+    "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+  },
+  {
+    "id": 51,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Classics",
+    "description": "A story about teenage rebellion and alienation.",
+    "rating": 3.9,
+    "image": "https://covers.openlibrary.org/b/id/8231871-L.jpg"
+  },
+  {
+    "id": 52,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Classics",
+    "description": "A critique of the American Dream in the Roaring Twenties.",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/8225631-L.jpg"
+  },
+  {
+    "id": 53,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "category": "Classics",
+    "description": "The epic tale of obsession and revenge on the high seas.",
+    "rating": 3.8,
+    "image": "https://covers.openlibrary.org/b/id/8231872-L.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "category": "Classics",
+    "description": "A gothic novel about the dangers of playing God.",
+    "rating": 4.0,
+    "image": "https://covers.openlibrary.org/b/id/8231873-L.jpg"
+  },
+  {
+    "id": 55,
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "category": "Romance",
+    "description": "An unconventional love story troubled by involuntary time travel.",
+    "rating": 4.0,
+    "image": "https://covers.openlibrary.org/b/id/8231881-L.jpg"
+  },
+  {
+    "id": 56,
+    "title": "The Rosie Project",
+    "author": "Graeme Simsion",
+    "category": "Romance",
+    "description": "A socially awkward genetics professor designs a survey to find a wife—and meets Rosie.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8231882-L.jpg"
+  },
+  {
+    "id": 57,
+    "title": "Eleanor & Park",
+    "author": "Rainbow Rowell",
+    "category": "Romance",
+    "description": "Star‑crossed teens fall in love over comic books and mixtapes in the 1980s.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/8231883-L.jpg"
+  },
+  {
+    "id": 58,
+    "title": "The Wedding Date",
+    "author": "Jasmine Guillory",
+    "category": "Romance",
+    "description": "They share an elevator, agree to a fake date—and sparks fly.",
+    "rating": 4.0,
+    "image": "https://covers.openlibrary.org/b/id/8231884-L.jpg"
+  },
+  {
+    "id": 59,
+    "title": "Red, White & Royal Blue",
+    "author": "Casey McQuiston",
+    "category": "Romance",
+    "description": "The First Son of the U.S. falls for the Prince of England—in a diplomatic dilemma.",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/8231885-L.jpg"
+  },
+  {
+    "id": 60,
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "category": "Fantasy",
+    "description": "A group of elite con men in a Venice‑like city pull off audacious heists.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/8231886-L.jpg"
+  },
+  {
+    "id": 61,
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy",
+    "description": "A young street thief becomes part of a plot to overthrow a tyrant.",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/8231887-L.jpg"
+  },
+  {
+    "id": 62,
+    "title": "The Priory of the Orange Tree",
+    "author": "Samantha Shannon",
+    "category": "Fantasy",
+    "description": "A feminist epic with dragons and political intrigue across continents.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/8231888-L.jpg"
+  },
+  {
+    "id": 63,
+    "title": "Uprooted",
+    "author": "Naomi Novik",
+    "category": "Fantasy",
+    "description": "A young woman is taken by a wizard to serve the corrupted Wood.",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/8231889-L.jpg"
+  },
+  {
+    "id": 64,
+    "title": "The Fifth Season",
+    "author": "N.K. Jemisin",
+    "category": "Fantasy",
+    "description": "In a world wracked by apocalypse, orogenes control seismic power.",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/8231890-L.jpg"
+  },
+  {
+    "id": 65,
+    "title": "Educated Woman",
+    "author": "Jane Doe",
+    "category": "Biography & Memoir",
+    "description": "A determined woman overcomes societal barriers through education.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8231891-L.jpg"
+  },
+  {
+    "id": 66,
+    "title": "When Breath Becomes Air",
+    "author": "Paul Kalanithi",
+    "category": "Biography & Memoir",
+    "description": "A neurosurgeon’s reflections on mortality after a terminal diagnosis.",
+    "rating": 4.6,
+    "image": "https://covers.openlibrary.org/b/id/8231892-L.jpg"
+  },
+  {
+    "id": 67,
+    "title": "Just Kids",
+    "author": "Patti Smith",
+    "category": "Biography & Memoir",
+    "description": "A memoir of love, art, and friendship in 1970s New York.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/8231893-L.jpg"
+  },
+  {
+    "id": 68,
+    "title": "Wild",
+    "author": "Cheryl Strayed",
+    "category": "Biography & Memoir",
+    "description": "A woman hikes the Pacific Crest Trail in search of healing.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8231894-L.jpg"
+  },
+  {
+    "id": 69,
+    "title": "Open",
+    "author": "Andre Agassi",
+    "category": "Biography & Memoir",
+    "description": "A candid autobiography of the tennis legend’s journey.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/8231895-L.jpg"
+  },
+  {
+    "id": 70,
+    "title": "1491",
+    "author": "Charles C. Mann",
+    "category": "History",
+    "description": "Pre‑Columbian Americas before European contact.",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/8231896-L.jpg"
+  },
+  {
+    "id": 71,
+    "title": "The Silk Roads",
+    "author": "Peter Frankopan",
+    "category": "History",
+    "description": "A new history centering Asia’s role in global heritage.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/8231897-L.jpg"
+  },
+  {
+    "id": 72,
+    "title": "Alexander Hamilton",
+    "author": "Ron Chernow",
+    "category": "History",
+    "description": "A comprehensive biography of one of America’s Founding Fathers.",
+    "rating": 4.5,
+    "image": "https://covers.openlibrary.org/b/id/8231898-L.jpg"
+  },
+  {
+    "id": 73,
+    "title": "Team of Rivals",
+    "author": "Doris Kearns Goodwin",
+    "category": "History",
+    "description": "Lincoln and his political rivals unite to lead the nation.",
+    "rating": 4.6,
+    "image": "https://covers.openlibrary.org/b/id/8231899-L.jpg"
+  },
+  {
+    "id": 74,
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "category": "History",
+    "description": "How environmental and geographical factors shaped civilizations.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/8231900-L.jpg"
+  },
+  {
+    "id": 75,
+    "title": "Daring Greatly",
+    "author": "Brené Brown",
+    "category": "Self-Help",
+    "description": "The power of vulnerability to transform how we live and lead.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/8231901-L.jpg"
+  },
+  {
+    "id": 76,
+    "title": "Mindset",
+    "author": "Carol S. Dweck",
+    "category": "Self-Help",
+    "description": "The new psychology of success with fixed vs growth mindsets.",
+    "rating": 4.4,
+    "image": "https://covers.openlibrary.org/b/id/8231902-L.jpg"
+  },
+  {
+    "id": 77,
+    "title": "Atomic Habits Helper",
+    "author": "Jane Clear",
+    "category": "Self-Help",
+    "description": "Practical exercises to build upon Atomic Habits principles.",
+    "rating": 4.1,
+    "image": "https://covers.openlibrary.org/b/id/8231903-L.jpg"
+  },
+  {
+    "id": 78,
+    "title": "Grit",
+    "author": "Angela Duckworth",
+    "category": "Self-Help",
+    "description": "Why passion and perseverance are the keys to success.",
+    "rating": 4.2,
+    "image": "https://covers.openlibrary.org/b/id/8231904-L.jpg"
+  },
+  {
+    "id": 79,
+    "title": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "category": "Self-Help",
+    "description": "A guide to personal freedom through four simple agreements.",
+    "rating": 4.3,
+    "image": "https://covers.openlibrary.org/b/id/8231905-L.jpg"
+  }
+]
